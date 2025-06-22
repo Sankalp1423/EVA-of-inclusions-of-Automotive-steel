@@ -1,4 +1,6 @@
 # EVA-of-inclusions-of-Automotive-steel
-It required various skills like automotive steel sample polishing by abrasive papers of different grit sizes, cloth polishing(using alumina and ethanol).
-Microscopy was performed on these samples, then we performed Extreme Value Analysis on the inclusions.
-Extreme value analysis (EVA) focuses on the largest inclusions in the steel matrix, as the largest inclusion is statistically the most likely to initiate failure.
+The project focuses on the evaluation of non-metallic inclusions in automotive steels and their impact on material performance. Inclusions, which form either during steelmaking or from external sources, can critically reduce fatigue strength, especially under torsional loads, by acting as crack initiation sites. These are classified as endogenous (like oxides and sulphides formed within the melt) or exogenous (from slag or refractory erosion). Standards like ASTM and JIS are used to categorize these based on size and morphology.
+
+To assess inclusions, samples were prepared through grinding, polishing, and ethanol cleaning to preserve sulphide integrity. Extreme Value Analysis (EVA) was applied, emphasizing the role of the largest inclusions in predicting fatigue failure. Results showed varying types of inclusions—sulphides, aluminates, globular oxides, and complex types—all influencing steel quality.
+
+The ultimate goal of this work is to use metallographic data to build predictive models that relate process parameters to inclusion size, thus helping manufacturers produce cleaner, more reliable automotive steels with enhanced fatigue life and surface properties.
